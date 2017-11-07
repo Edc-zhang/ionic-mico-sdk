@@ -2,7 +2,7 @@
 easyLink插件
 ## Installation
 
-    cordova plugin add https://github.com/GTDistance/ionic-mico-sdk.git
+    cordova plugin add https://github.com/Edc-zhang/ionic-mico-sdk.git
     
 ## Uninstall
     cordova plugin rm ionic-mico-sdk
